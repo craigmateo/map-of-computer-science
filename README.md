@@ -4,124 +4,122 @@
 ```mermaid
 mindmap
   root((Computer Science))
-    Theoretical CS
-      Computability Theory
-      Computation Theory
-      Computational Complexity
-      Information Theory
+    Theoretical_Computer_Science
+      Computability_Theory
+      Computation_Theory
+      Computational_Complexity
+      Information_Theory
       Cryptography
-      Graph Theory
-      Computational Geometry
-      Boolean Satisfiability (SAT)
-    Algorithms & Data Structures
+      Graph_Theory
+      Computational_Geometry
+      SAT_(Boolean_Satisfiability)
+    Algorithms_And_Data_Structures
       Algorithms
         Sorting
         Searching
-        Dynamic Programming
-        Greedy Algorithms
-        Graph Algorithms
-      Data Structures
+        Dynamic_Programming
+        Greedy_Algorithms
+        Graph_Algorithms
+      Data_Structures
         Arrays
-        Linked Lists
-        Stacks & Queues
-        Trees & Heaps
-        Hash Tables
+        Linked_Lists
+        Stacks_and_Queues
+        Trees_and_Heaps
+        Hash_Tables
         Graphs
       Optimization
-        Linear Programming
-        Flow Networks
+        Linear_Programming
+        Flow_Networks
         Scheduling
-    Computer Engineering
+    Computer_Engineering
       Hardware
         CPU
         GPU
         RAM
         Storage
-      Computer Architecture
-        Instruction Sets (ISA)
+      Computer_Architecture
+        Instruction_Sets_(ISA)
         Pipelines
         Caches
-        Parallel Architectures
-      Scheduling & Multiprocessing
+        Parallel_Architectures
+      Scheduling_and_Multiprocessing
         Concurrency
         Parallelism
-        Context Switching
-    Software Engineering
-      Programming Languages
+        Context_Switching
+    Software_Engineering
+      Programming_Languages
         Python
         Java
-        C/C++
+        C_and_C++
         JavaScript
         Swift
         PHP
         SQL
-      Compilers & Interpreters
+      Compilers_and_Interpreters
         Parsing
         AST
         Optimization
-        Code Generation
-      Design & Practice
-        Object-Oriented Design
-        Design Patterns
-        Version Control (Git)
-      Computer Graphics
+        Code_Generation
+      Design_and_Practices
+        Object_Oriented_Design
+        Design_Patterns
+        Version_Control_(Git)
+      Computer_Graphics
         Rendering
-        3D Modelling
-    Operating Systems
-      Processes & Threads
+        _3D_Modeling
+    Operating_Systems
+      Processes_and_Threads
       Scheduling
-      Memory Management
-      File Systems
-    Networking & Web
+      Memory_Management
+      File_Systems
+    Networking_and_Web
       Networking
-        TCP/IP
+        TCP_IP
         Routing
         Packets
-      Data Management
+      Data_Management
         Databases
         Indexing
         Scaling
       Web
         Browsers
-        Web Servers
+        Web_Servers
         APIs
-        Web Apps
-    Artificial Intelligence
-      Machine Learning
+        Web_Apps
+    Artificial_Intelligence
+      Machine_Learning
         Supervised
         Unsupervised
         Reinforcement
-        Neural Networks
-      Computer Vision
-        Image Recognition
-        Object Detection
-      NLP
-        Language Models
+        Neural_Networks
+      Computer_Vision
+        Image_Recognition
+        Object_Detection
+      Natural_Language_Processing
+        Language_Models
         Chatbots
-      Knowledge Representation
+      Knowledge_Representation
         Ontologies
-        Logical Reasoning
+        Logical_Reasoning
       Robotics
         Control
         Sensors
         Motion
     Applications
       Supercomputing
-      VR & AR
+      VR_and_AR
       Telepresence
-      Human-Computer Interaction (HCI)
-      Internet of Things (IoT)
-      Big Data
-      Computational Science
-        Computational Physics
+      Human_Computer_Interaction
+      Internet_of_Things
+      Big_Data
+      Computational_Science
+        Computational_Physics
         Bioinformatics
-        Numerical Analysis
-      Security & Hacking
-        Penetration Testing
+        Numerical_Analysis
+      Security_and_Hacking
+        Penetration_Testing
         Vulnerabilities
-        Security Models
-
----
+        Security_Models
 
 ## 1. Theoretical Computer Science
 

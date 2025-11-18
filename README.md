@@ -1,6 +1,7 @@
 # Map of Computer Science — Structured Outline (Expanded)
 *A conceptual, bird’s-eye overview based on the visual map by Dominic Walliman.*
 
+```markdown
 ```mermaid
 mindmap
   root((Computer Science))
@@ -12,21 +13,19 @@ mindmap
       Cryptography
       Graph_Theory
       Computational_Geometry
-      SAT_(Boolean_Satisfiability)
-    Algorithms_And_Data_Structures
+      SAT
+    Algorithms_and_Data_Structures
       Algorithms
         Sorting
         Searching
         Dynamic_Programming
         Greedy_Algorithms
-        Graph_Algorithms
       Data_Structures
         Arrays
         Linked_Lists
-        Stacks_and_Queues
-        Trees_and_Heaps
-        Hash_Tables
+        Trees
         Graphs
+        Hash_Tables
       Optimization
         Linear_Programming
         Flow_Networks
@@ -37,89 +36,84 @@ mindmap
         GPU
         RAM
         Storage
-      Computer_Architecture
-        Instruction_Sets_(ISA)
+      Architecture
+        Instruction_Sets
         Pipelines
         Caches
-        Parallel_Architectures
-      Scheduling_and_Multiprocessing
-        Concurrency
         Parallelism
+      Multiprocessing
+        Concurrency
         Context_Switching
     Software_Engineering
       Programming_Languages
         Python
         Java
-        C_and_C++
+        Cpp
         JavaScript
         Swift
         PHP
-        SQL
-      Compilers_and_Interpreters
+      Compilers
         Parsing
         AST
         Optimization
         Code_Generation
-      Design_and_Practices
-        Object_Oriented_Design
+      Design
+        OOP
         Design_Patterns
-        Version_Control_(Git)
-      Computer_Graphics
+        Version_Control
+      Graphics
         Rendering
         _3D_Modeling
     Operating_Systems
-      Processes_and_Threads
-      Scheduling
+      Processes
+      Threads
       Memory_Management
       File_Systems
-    Networking_and_Web
-      Networking
-        TCP_IP
-        Routing
-        Packets
-      Data_Management
-        Databases
-        Indexing
-        Scaling
-      Web
-        Browsers
-        Web_Servers
-        APIs
-        Web_Apps
+      Scheduling
+    Networking
+      TCP_IP
+      Routing
+      Packets
+    Web
+      Browsers
+      Servers
+      APIs
+      Web_Apps
     Artificial_Intelligence
       Machine_Learning
         Supervised
         Unsupervised
         Reinforcement
         Neural_Networks
-      Computer_Vision
+      Vision
         Image_Recognition
         Object_Detection
-      Natural_Language_Processing
-        Language_Models
+      NLP
         Chatbots
-      Knowledge_Representation
+        Language_Models
+      Knowledge
+        Reasoning
         Ontologies
-        Logical_Reasoning
       Robotics
-        Control
         Sensors
+        Control
         Motion
     Applications
       Supercomputing
-      VR_and_AR
+      VR_AR
       Telepresence
-      Human_Computer_Interaction
-      Internet_of_Things
+      HCI
+      IoT
       Big_Data
       Computational_Science
-        Computational_Physics
+        Physics
         Bioinformatics
         Numerical_Analysis
-      Security_and_Hacking
+      Security
         Penetration_Testing
         Vulnerabilities
         Security_Models
+---
 
 ## 1. Theoretical Computer Science
 

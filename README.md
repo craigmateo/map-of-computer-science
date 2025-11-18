@@ -1,7 +1,125 @@
 # Map of Computer Science — Structured Outline (Expanded)
 *A conceptual, bird’s-eye overview based on the visual map by Dominic Walliman.*
 
-![Map of Computer Science](assets/comp_sci_map.png)
+```mermaid
+mindmap
+  root((Computer Science))
+    Theoretical CS
+      Computability Theory
+      Computation Theory
+      Computational Complexity
+      Information Theory
+      Cryptography
+      Graph Theory
+      Computational Geometry
+      Boolean Satisfiability (SAT)
+    Algorithms & Data Structures
+      Algorithms
+        Sorting
+        Searching
+        Dynamic Programming
+        Greedy Algorithms
+        Graph Algorithms
+      Data Structures
+        Arrays
+        Linked Lists
+        Stacks & Queues
+        Trees & Heaps
+        Hash Tables
+        Graphs
+      Optimization
+        Linear Programming
+        Flow Networks
+        Scheduling
+    Computer Engineering
+      Hardware
+        CPU
+        GPU
+        RAM
+        Storage
+      Computer Architecture
+        Instruction Sets (ISA)
+        Pipelines
+        Caches
+        Parallel Architectures
+      Scheduling & Multiprocessing
+        Concurrency
+        Parallelism
+        Context Switching
+    Software Engineering
+      Programming Languages
+        Python
+        Java
+        C/C++
+        JavaScript
+        Swift
+        PHP
+        SQL
+      Compilers & Interpreters
+        Parsing
+        AST
+        Optimization
+        Code Generation
+      Design & Practice
+        Object-Oriented Design
+        Design Patterns
+        Version Control (Git)
+      Computer Graphics
+        Rendering
+        3D Modelling
+    Operating Systems
+      Processes & Threads
+      Scheduling
+      Memory Management
+      File Systems
+    Networking & Web
+      Networking
+        TCP/IP
+        Routing
+        Packets
+      Data Management
+        Databases
+        Indexing
+        Scaling
+      Web
+        Browsers
+        Web Servers
+        APIs
+        Web Apps
+    Artificial Intelligence
+      Machine Learning
+        Supervised
+        Unsupervised
+        Reinforcement
+        Neural Networks
+      Computer Vision
+        Image Recognition
+        Object Detection
+      NLP
+        Language Models
+        Chatbots
+      Knowledge Representation
+        Ontologies
+        Logical Reasoning
+      Robotics
+        Control
+        Sensors
+        Motion
+    Applications
+      Supercomputing
+      VR & AR
+      Telepresence
+      Human-Computer Interaction (HCI)
+      Internet of Things (IoT)
+      Big Data
+      Computational Science
+        Computational Physics
+        Bioinformatics
+        Numerical Analysis
+      Security & Hacking
+        Penetration Testing
+        Vulnerabilities
+        Security Models
 
 ---
 

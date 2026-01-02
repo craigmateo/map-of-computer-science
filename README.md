@@ -1,9 +1,118 @@
-# Map of Computer Science — Structured Outline (Expanded)
-*A conceptual, bird’s-eye overview based on the visual map by Dominic Walliman.*
+# Map of Computer Science — Outline
+*A conceptual, bird’s-eye overview (based on the visual map by Dominic Walliman).*
 
-![Map of Computer Science](assets/comp_sci_map.png)
-
----
+```mermaid
+mindmap
+  root((Computer Science))
+    Theoretical_Computer_Science
+      Computability_Theory
+      Computation_Theory
+      Computational_Complexity
+      Information_Theory
+      Cryptography
+      Graph_Theory
+      Computational_Geometry
+      SAT
+    Algorithms_and_Data_Structures
+      Algorithms
+        Sorting
+        Searching
+        Dynamic_Programming
+        Greedy_Algorithms
+      Data_Structures
+        Arrays
+        Linked_Lists
+        Trees
+        Graphs
+        Hash_Tables
+      Optimization
+        Linear_Programming
+        Flow_Networks
+        Scheduling
+    Computer_Engineering
+      Hardware
+        CPU
+        GPU
+        RAM
+        Storage
+      Architecture
+        Instruction_Sets
+        Pipelines
+        Caches
+        Parallelism
+      Multiprocessing
+        Concurrency
+        Context_Switching
+    Software_Engineering
+      Programming_Languages
+        Python
+        Java
+        Cpp
+        JavaScript
+        Swift
+        PHP
+      Compilers
+        Parsing
+        AST
+        Optimization
+        Code_Generation
+      Design
+        OOP
+        Design_Patterns
+        Version_Control
+      Graphics
+        Rendering
+        _3D_Modeling
+    Operating_Systems
+      Processes
+      Threads
+      Memory_Management
+      File_Systems
+      Scheduling
+    Networking
+      TCP_IP
+      Routing
+      Packets
+    Web
+      Browsers
+      Servers
+      APIs
+      Web_Apps
+    Artificial_Intelligence
+      Machine_Learning
+        Supervised
+        Unsupervised
+        Reinforcement
+        Neural_Networks
+      Vision
+        Image_Recognition
+        Object_Detection
+      NLP
+        Chatbots
+        Language_Models
+      Knowledge
+        Reasoning
+        Ontologies
+      Robotics
+        Sensors
+        Control
+        Motion
+    Applications
+      Supercomputing
+      VR_AR
+      Telepresence
+      HCI
+      IoT
+      Big_Data
+      Computational_Science
+        Physics
+        Bioinformatics
+        Numerical_Analysis
+      Security
+        Penetration_Testing
+        Vulnerabilities
+        Security_Models
+```
 
 ## 1. Theoretical Computer Science
 
